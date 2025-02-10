@@ -1,5 +1,5 @@
-# primer-repo
-primer repositorio de la vida
+# titulo piola
+Primer repo creado en github
 
-# descripcion
-aca empieza mi intento de programar
+## descripción 
+Este es un repo de soydalto, creado solo para el curso de git
